@@ -1,0 +1,9 @@
+name: "netease-music-box"
+author: "leecason"
+description: "将你最近一周的网易云音乐的听歌记录更新到 Gist"
+branding:
+  icon: "headphones"
+  color: "red"
+runs:
+  using: "node12"
+  main: "./index.js"

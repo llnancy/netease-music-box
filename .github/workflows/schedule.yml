@@ -1,0 +1,22 @@
+name: Update gist
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn install
+      - name: Update gist
+        uses: ./
+        env:
+          TIMEZONE: Asia/Shanghai
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NETEASE_GIST_ID: 475826c54f1a5cd2037aa96c604043c0
+          NETEASE_USER_ID: 270914295
+          NETEASE_USER_TOKEN: ${{ secrets.USER_TOKEN }}
