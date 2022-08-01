@@ -51,6 +51,9 @@ const {
       `${playCount}`,
       '次    ',
     ];
+    let join = line.join('  ');
+    console.log(join);
+    console.log(join.length);
 
     return [...prev, line.join(' ')];
   }, []);
