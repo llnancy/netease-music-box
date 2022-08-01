@@ -35,14 +35,14 @@ const {
     totalPlayCount += data.playCount;
   });
 
-  console.log(weekData);
-
   const icon = ['🥇', '🥈', '🥉', '🏅', '🏅']
 
   const lines = weekData.slice(0, 5).reduce((prev, cur, index) => {
     const playCount = cur.playCount;
     const artists = cur.song.ar.map(a => a.name);
     let name = `${cur.song.name} - ${artists.join('/')}`;
+
+    console.log(name.length)
 
     const line = [
       icon[index],
