@@ -46,12 +46,12 @@ const {
 
     const line = [
       icon[index],
-      name,
+      ' ' + name,
       '\t\t\t',
       `${playCount}`,
       '次    ',
     ];
-    let join = line.join('  ');
+    let join = line.join('');
     console.log(join);
     console.log(join.length);
 
