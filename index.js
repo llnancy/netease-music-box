@@ -47,7 +47,7 @@ const {
     const line = [
       icon[index],
       ' ' + name,
-      '\t\t\t',
+      name.length >= 14 ? '\t\t' : '\t\t\t',
       `${playCount}`,
       '次    ',
     ];
@@ -55,7 +55,7 @@ const {
     console.log(join);
     console.log(join.length);
 
-    return [...prev, line.join(' ')];
+    return [...prev, line.join('')];
   }, []);
 
   /**
