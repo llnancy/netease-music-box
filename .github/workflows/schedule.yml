@@ -4,7 +4,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 16 * * *"
+  workflow_dispatch:
 
 jobs:
   update-gist:
@@ -20,3 +21,10 @@ jobs:
           NETEASE_GIST_ID: 475826c54f1a5cd2037aa96c604043c0
           NETEASE_USER_ID: 270914295
           NETEASE_USER_TOKEN: ${{ secrets.USER_TOKEN }}
+          MARKDOWN_FILE: README.md
+      - name: Commit and push
+        run: |-
+          git config --global user.email "admin@lilu.org.cn" && git config --global user.name "sunchaser-lilu"
+          git diff
+          git add README.md && git commit -m ":robot: Github Action schedule automatically" || exit 0
+          git pull --rebase && git push
