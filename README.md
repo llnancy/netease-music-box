@@ -3,6 +3,15 @@
 <td>
 
 <!-- netease-music-box start -->
+#### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
+```text
+🥇 风吹过八千里 - 苏星婕			0次    
+🥈 阿衣莫 - 阿吉太组合			0次    
+🥉 哪里都是你 - 队长			0次    
+🏅 斑马斑马 - 房东的猫			0次    
+🏅 此生不换 - 青鸟飞鱼			0次    
+```
+
 <!-- netease-music-box end -->
 
 </td>
