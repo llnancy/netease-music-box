@@ -29,11 +29,7 @@ const {
    * Second, get week play data and parse into song/plays diagram
    */
 
-  let totalPlayCount = 0;
   const { weekData } = record.body;
-  weekData.forEach(data => {
-    totalPlayCount += data.playCount;
-  });
 
   const icon = ['🥇', '🥈', '🥉', '🏅', '🏅']
 
@@ -42,8 +38,6 @@ const {
     const artists = cur.song.ar.map(a => a.name);
     let name = `${cur.song.name} - ${artists.join('/')}`;
 
-    console.log(name.length)
-
     const line = [
       icon[index],
       ' ' + name,
@@ -51,9 +45,6 @@ const {
       `${playCount}`,
       '次    ',
     ];
-    let join = line.join('');
-    console.log(join);
-    console.log(join.length);
 
     return [...prev, line.join('')];
   }, []);
