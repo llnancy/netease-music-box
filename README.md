@@ -5,8 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 尘土 - 安朕宇			0次    
-🥈 惊雷 - 井宁			0次    
+🥇 惊雷 - 井宁			0次    
+🥈 尘土 - 安朕宇			0次    
 🥉 红玫瑰 - 陈奕迅			0次    
 🏅 借 - 毛不易			0次    
 🏅 可能否 - 木小雅			0次    
