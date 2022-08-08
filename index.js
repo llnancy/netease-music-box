@@ -39,6 +39,9 @@ const {
     const artists = cur.song.ar.map(a => a.name);
     let name = `${cur.song.name} - ${artists.join('/')}`;
 
+    console.log(name);
+    console.log(name.length);
+
     const line = [
       icon[index],
       ' ' + name,
