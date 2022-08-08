@@ -45,7 +45,7 @@ const {
     const line = [
       icon[index],
       ' ' + name,
-      name.length >= 14 ? '\t\t' : '\t\t\t',
+      name.length >= 9 ? '\t\t' : '\t\t\t',
       `${playCount}`,
       '次    ',
     ];
