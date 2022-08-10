@@ -48,9 +48,9 @@ const {
 
     let tab;
     if (name.length <= 8) {
-      tab = '\t\t\t';
+      tab = '\t\t\t\t';
     } else {
-      tab = '\t\t';
+      tab = '\t\t\t';
     }
 
     const line = [
