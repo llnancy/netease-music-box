@@ -48,10 +48,8 @@ const {
 
     let tab;
     if (name.length <= 8) {
-      tab = '\t\t\t\t';
-    } else if (name.length === 9 || name.length === 10) {
       tab = '\t\t\t';
-    } else if (name.length >= 11) {
+    } else {
       tab = '\t\t';
     }
 
