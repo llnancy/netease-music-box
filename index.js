@@ -42,8 +42,10 @@ const {
     console.log(name);
     console.log(name.length);
 
+    let flag = name.length > 11;
     name = name.slice(0, 11);
-    name = name.length === 11 ? name + '...' : name;
+    name = flag ? name + '...' : name;
+
     let tab;
     if (name.length <= 8) {
       tab = '\t\t\t\t';
