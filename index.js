@@ -42,10 +42,21 @@ const {
     console.log(name);
     console.log(name.length);
 
+    name = name.slice(0, 11);
+    name = name.length === 11 ? name + '...' : name;
+    let tab;
+    if (name.length <= 8) {
+      tab = '\t\t\t\t';
+    } else if (name.length === 9 || name.length === 10) {
+      tab = '\t\t\t';
+    } else if (name.length >= 11) {
+      tab = '\t\t';
+    }
+
     const line = [
       icon[index],
       ' ' + name,
-      name.length >= 9 ? '\t\t' : '\t\t\t',
+      tab,
       `${playCount}`,
       '次    ',
     ];
