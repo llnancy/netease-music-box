@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 惊雷 - 井宁				0次    
-🥈 等你归来 - 程响			0次    
-🥉 伯虎说 (feat.唐...			0次    
-🏅 爱情转移 - 陈奕迅			0次    
+🥇 等你归来 - 程响			0次    
+🥈 伯虎说 (feat.唐...			0次    
+🥉 爱情转移 - 陈奕迅			0次    
 🏅 如约而至 - 许嵩			0次    
+🏅 给你给我 - 毛不易			0次    
 ```
 
 <!-- netease-music-box end -->
