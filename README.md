@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 怎随天下 - 王若熙			0次    
-🥈 一分一寸（DJ版） -...			0次    
-🥉 折风渡夜 (DJ名龙抖...			0次    
-🏅 忘不了的是你 - 刘大...			0次    
-🏅 杨千嬅-野孩子抖音（啊...			0次    
+🥇 今年勇 - 许嵩				0次    
+🥈 小城谣 - 胡碧乔			0次    
+🥉 Håll Om Mig...			0次    
+🏅 遗失的心跳 - 萧亚轩			0次    
+🏅 半山腰 - Zic子晨			0次    
 ```
 
 <!-- netease-music-box end -->
