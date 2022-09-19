@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 今年勇 - 许嵩				0次    
-🥈 小城谣 - 胡碧乔			0次    
-🥉 Håll Om Mig...			0次    
-🏅 遗失的心跳 - 萧亚轩			0次    
-🏅 半山腰 - Zic子晨			0次    
+🥈 雅俗共赏 - 许嵩			0次    
+🥉 燕归巢 - 许嵩				0次    
+🏅 小城谣 - 胡碧乔			0次    
+🏅 Håll Om Mig...			0次    
 ```
 
 <!-- netease-music-box end -->
