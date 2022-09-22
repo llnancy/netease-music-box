@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 今年勇 - 许嵩				0次    
-🥈 艺术家们 - 许嵩			0次    
-🥉 大千世界 - 许嵩			0次    
-🏅 老古董 - 许嵩				0次    
-🏅 我乐意 - 许嵩				0次    
+🥇 重复重复 - 许嵩			0次    
+🥈 浪 - 许嵩				0次    
+🥉 九月清晨 - 许嵩			0次    
+🏅 艺术家们 - 许嵩			0次    
+🏅 明智之举 - 许嵩			0次    
 ```
 
 <!-- netease-music-box end -->
