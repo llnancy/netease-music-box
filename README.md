@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 柳成荫 - 许嵩				0次    
-🥈 重复重复 - 许嵩			0次    
-🥉 浪 - 许嵩				0次    
-🏅 九月清晨 - 许嵩			0次    
-🏅 艺术家们 - 许嵩			0次    
+🥇 折风渡夜 (DJ名龙版...			0次    
+🥈 早睡身体好 - 许嵩			0次    
+🥉 不语 - 许嵩				0次    
+🏅 有桃花 - 许嵩				0次    
+🏅 等到烟火清凉 - 许嵩			0次    
 ```
 
 <!-- netease-music-box end -->
