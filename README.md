@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 难却（女声完整版） -...			0次    
+🥇 难却（完整版） - 捡...			0次    
 🥈 须尽欢 (抖音完整版)...			0次    
 🥉 洪湖水浪打浪 - 王玉...			0次    
 🏅 明月天涯 - 五音Jw			0次    
-🏅 难却 (正式版) - ...			0次    
+🏅 难却（片段）（原唱：平...			0次    
 ```
 
 <!-- netease-music-box end -->
