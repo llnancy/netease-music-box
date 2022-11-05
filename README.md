@@ -5,11 +5,7 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 难却（抖音热歌完整版）...			0次    
-🥈 难却 (正式版) - ...			0次    
-🥉 小城画师 - 听洁			0次    
-🏅 篇章 - 张韶涵/王赫...			0次    
-🏅 人间烟火 - 程响			0次    
+
 ```
 
 <!-- netease-music-box end -->
