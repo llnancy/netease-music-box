@@ -5,7 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 孤勇者 - 陈奕迅			0次    
+🥇 阿衣莫 - 阿吉太组合			0次    
+🥈 孤勇者 - 陈奕迅			0次    
+🥉 游京 - 海伦				0次    
 ```
 
 <!-- netease-music-box end -->
