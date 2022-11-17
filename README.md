@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 牵丝戏 - Aki阿杰...			0次    
-🥈 阴阳名仕录 - 少恭/...			0次    
-🥉 哪里都是你 - 队长			0次    
-🏅 步戏 - 五音Jw			0次    
+🥇 阴阳名仕录 - 少恭/...			0次    
+🥈 步戏 - 五音Jw			0次    
+🥉 牵丝戏 - Aki阿杰...			0次    
 🏅 天策·枪魂 - 肥皂菌...			0次    
+🏅 斗战胜佛 - 老虎欧巴			0次    
 ```
 
 <!-- netease-music-box end -->
