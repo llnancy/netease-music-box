@@ -63,6 +63,13 @@
 
 5. [在个人资料中嵌入 Gist](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
+6. 如果需要写入到某个 `markdown` 文件，请在对应文件需要写入的地方添加以下注释
+
+```text
+<!-- netease-music-box start -->
+<!-- netease-music-box end -->
+```
+
 ## 🤔 工作原理
 
 - 基于 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 获取听歌记录
