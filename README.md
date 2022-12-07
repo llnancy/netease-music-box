@@ -39,13 +39,13 @@
 
     - ID 为个人主页页面（`https://music.163.com/#/user/home?id=xxx`），`id` 后紧跟的那串数字
 
-    ![USER_ID](https://github.com/sunchaser-lilu/netease-music-box/blob/master/assets/user_id.png)
+    ![USER_ID](https://github.com/llnancy/netease-music-box/blob/master/assets/user_id.png)
 
 4. 获取网易云音乐用户 Token
 
     - 在登录态下打开浏览器开发者工具，查看 Cookie，获取 `key` 为 `MUSIC_U` 的 `value`
 
-    ![USER_TOKEN](https://github.com/sunchaser-lilu/netease-music-box/blob/master/assets/user_token.png)
+    ![USER_TOKEN](https://github.com/llnancy/netease-music-box/blob/master/assets/user_token.png)
 
 ### 🚀 安装
 
@@ -55,7 +55,7 @@
 
 3. 编辑 `.github/workflows/schedule.yml` 文件中的环境变量：
 
-    - **GIST_ID**: ID 是新建 Gist 的 `url` 后缀: `https://gist.github.com/sunchaser-lilu/`**`475826c54f1a5cd2037aa96c604043c0`**
+    - **GIST_ID**: ID 是新建 Gist 的 `url` 后缀: `https://gist.github.com/llnancy/`**`475826c54f1a5cd2037aa96c604043c0`**
 
     - **USER_ID**: 网易云音乐用户 ID
 
