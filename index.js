@@ -69,7 +69,9 @@ const {
    */
 
   const title = `🎵 我最近一周的听歌排行`;
+  console.log('lines start.');
   console.log(lines);
+  console.log('lines end.')
   const content = lines.join('\n');
   if (content === '\n\n\n\n') {
     content = 'Oh~我最近还没有听歌～'
@@ -111,7 +113,6 @@ const {
       const startIndex = data.indexOf(start) + start.length;
       const endIndex = data.indexOf(end);
       const markdown = data.substring(0, startIndex) + markdownTitle + '```text\n' + markdownContent + '\n```\n\n' + data.substring(endIndex);
-      console.log(markdown);
       fs.writeFile(markdownFile, markdown, err => {
         if (err) {
           console.error(err);
