@@ -71,7 +71,7 @@ const {
   const title = `🎵 我最近一周的听歌排行`;
   let content = lines.join('\n');
   if (content === '') {
-    content = 'Oh~我最近还没有听歌～'
+    content = 'Oh my God!~~~~~~\n我最近一周竟然没有听歌～\n~~~~~~'
   }
   try {
     const octokit = new Octokit({
