@@ -5,7 +5,7 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-
+Oh~我最近还没有听歌～
 ```
 
 <!-- netease-music-box end -->
