@@ -69,6 +69,7 @@ const {
    */
 
   const title = `🎵 我最近一周的听歌排行`;
+  console.log(lines);
   const content = lines.join('\n');
   if (content === '\n\n\n\n') {
     content = 'Oh~我最近还没有听歌～'
