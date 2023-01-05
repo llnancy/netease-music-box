@@ -69,10 +69,7 @@ const {
    */
 
   const title = `🎵 我最近一周的听歌排行`;
-  const content = lines.join('\n');
-  console.log('content start.');
-  console.log(content);
-  console.log('content end.')
+  let content = lines.join('\n');
   if (content === '') {
     content = 'Oh~我最近还没有听歌～'
   }
