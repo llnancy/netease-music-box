@@ -5,10 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 三分半时空 - 黄一			0次    
+🥈 三分半时空 - 黄一			0次    
 ```
 
 <!-- netease-music-box end -->
