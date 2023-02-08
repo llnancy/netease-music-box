@@ -5,10 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 清明雨纷纷（清爽版） ...			0次    
+🥈 风缘 - 双笙 (陈元...			0次    
+🥉 琵琶行 - 奇然/沈谧...			0次    
+🏅 参商 - 不才				0次    
+🏅 ONE 一个 (Liv...			0次    
 ```
 
 <!-- netease-music-box end -->
